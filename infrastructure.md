@@ -1,10 +1,9 @@
 # x402 Infrastructure Projects
 
 April 2026 active x402 infrastructure projects.
-Total projects listed: 108
+Total projects listed: 107
 
 
-- @BlockRunAI - newly verified batch handle
 - @google - x402 foundation member and major entity
 - @Visa - x402 foundation member and major entity
 - @circle - x402 foundation member and major entity
@@ -69,6 +68,7 @@ Total projects listed: 108
 - @dapplooker - newly verified batch handle
 - @x402rorg - newly verified batch handle
 - @vercel - x402 for monetizing MCP tools and serverless functions
+- @ExaAILabs - verified x402 infrastructure project
 - @nansen_ai - pay-per-query blockchain analytics via x402
 - @MessariCrypto - pay-per-use access to crypto intelligence and research APIs
 - @worldnetwork - verified human identity combined with x402 payment flows
