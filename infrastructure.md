@@ -11,7 +11,6 @@ Total projects listed: 133
 - @firecrawl
 - @flock_io
 - @Hive_Intel
-- @cashieCARV
 - @VPAY_Global
 - @awenetwork_ai
 - @ethy_agent
@@ -42,7 +41,7 @@ Total projects listed: 133
 - @agentcashdev
 - @HeyElsaAI
 - @dexteraisol
-- @carv_official
+- @cashieCARV by @carv_official
 - @pinatacloud
 - @itsgloria_ai
 - @bankrbot
@@ -97,6 +96,11 @@ Total projects listed: 133
 - @apify
 - @Thirdfy_
 - @eigencloud
+- @nookplot
+- @clashofcoins
+- @ArAIstotle
+- @perk_os
+
 
 
 # 2. standards
