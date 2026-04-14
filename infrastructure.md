@@ -1,6 +1,6 @@
 # x402 Infrastructure Projects
 
-A verified list of infrastructure projects building on the x402 payment protocol.
+April 2026 active x402 infrastructure projects.
 
 - @Cloudflare - co-founded x402 Foundation, native support in Workers and AI Agents
 - @awscloud - machine-to-machine x402 payments in cloud infra
@@ -14,28 +14,23 @@ A verified list of infrastructure projects building on the x402 payment protocol
 - @QuickNode - x402 paywall middleware and interactive test environment
 - @browserbase - pay-per-use headless browser infra for AI agents
 - @hyperbrowser - browser automation for agents with native stablecoin payments
-- @thirdweb - facilitator SDK supporting 170+ chains and 4000+ tokens
-- @ampersend_ai - wallet and budget control for AI agents
-- @daydreamsagents - x402-enabled LLM inference router for agents
-- @FluxA_Official - deferred payment rails with onchain batch settlement
 - @alt_layer - x402 gateway, facilitator, and decentralized agent hosting
-- @kamiyoai - agent orchestration with x402 micropayments
-- @dapplooker - onchain and market intelligence APIs with x402 pay-per-call
-- @0x402ai - cloud infra to become an x402 facilitator in seconds
-- @heurist_ai - composable crypto skills for AI agents with x402 and MCP support
-- @maxdev - machine-first x402 API discovery for AI agents
-- @x402scan - ecosystem explorer and analytics for x402
-- @x402rorg - non-custodial refund and arbitration for x402
 - @zauthinc - trust infra with endpoint verification and refund execution
-- @zpaynow - open payment gateway for humans and AI agents
 - @t54ai - real-time risk control for AI-driven x402 transactions
 - @OOBEonSol - agent identity and discovery on Solana with x402 micropayments
-- @predict_agent - open-source agent framework with native x402 integration
-- @PayWithLocus - MCP wallet with auto-generated tools for every x402 endpoint
 - @framesag - build and monetize MCP servers
-- @mrdn_finance - multi-chain facilitator with developer-first features
-- @1shotapi - monetize any n8n workflow via x402
 - @Alchemy - pay for RPC calls and web3 APIs via x402
 - @Nevermined_ai - payment validation, cost tracking, and multi-model settlement
 - @x402 - reference MCP server, wallet, and Node.js server implementations
 - @PRXVTai - privacy-preserving x402 payments via zero-knowledge proofs
+- @ampersend_ai - wallet and budget control for AI agents
+- @thirdweb - facilitator SDK supporting 170+ chains and 4000+ tokens
+- @kamiyoai - agent orchestration with x402 micropayments
+- @daydreamsagents - x402-enabled LLM inference router for agents
+- @x402scan - ecosystem explorer and analytics for x402
+- @heurist_ai - composable crypto skills for AI agents with x402 and MCP support
+- @zpaynow - open payment gateway for humans and AI agents
+- @predict_agent - open-source agent framework with native x402 integration
+- @1shotapi - monetize any n8n workflow via x402
+- @PayWithLocus - MCP wallet with auto-generated tools for every x402 endpoint
+- @mrdn_finance - multi-chain facilitator with developer-first features
