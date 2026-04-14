@@ -71,7 +71,6 @@ Total projects listed: 133
 - @Treasure_DAO
 - @AskVenice
 - @alphakek
-- @openservai
 - @fortytwonetwork
 - @CoinMarketCap
 - @coingecko
@@ -90,7 +89,6 @@ Total projects listed: 133
 - @xmtp_
 - @TownsProtocol
 - @neynarxyz
-- @clawdbotatg
 - @AlliumLabs
 - @privy_io
 - @apify
