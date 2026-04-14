@@ -2,9 +2,69 @@
 
 April 2026 active x402 infrastructure projects.
 
+- @google - x402 foundation member and major entity
+- @Visa - x402 foundation member and major entity
+- @circle - x402 foundation member and major entity
+- @ethereum - x402 foundation member and major entity
+- @Adyen - x402 foundation member and major entity
+- @AmericanExpress - x402 foundation member and major entity
+- @AntIntl - x402 foundation member and major entity
+- @base - x402 foundation member and major entity
+- @coinbase - x402 foundation member and major entity
+- @Fiserv - x402 foundation member and major entity
+- @kakaopay - x402 foundation member and major entity
+- @Mastercard - x402 foundation member and major entity
+- @meritsystems - x402 foundation member and major entity
+- @Microsoft - x402 foundation member and major entity
+- @0xPolygonLabs - x402 foundation member and major entity
+- @PPROGroup - x402 foundation member and major entity
+- @SierraAI - x402 foundation member and major entity
+- @Shopify - x402 foundation member and major entity
+- @SolanaFndn - x402 foundation member and major entity
 - @Cloudflare - co-founded x402 Foundation, native support in Workers and AI Agents
 - @awscloud - machine-to-machine x402 payments in cloud infra
 - @stripe - stablecoin payments via HTTP 402 for internet commerce
+- @ampersend_ai - wallet and budget control for AI agents
+- @thirdweb - facilitator SDK supporting 170+ chains and 4000+ tokens
+- @virtuals_io - newly verified batch handle
+- @carv_official - newly verified batch handle
+- @aixbt_labs - newly verified batch handle
+- @mcpaytech - newly verified batch handle
+- @questflow - newly verified batch handle
+- @firecrawl - newly verified batch handle
+- @flock_io - newly verified batch handle
+- @pinatacloud - newly verified batch handle
+- @Hive_Intel - newly verified batch handle
+- @luna_virtuals - newly verified batch handle
+- @cashieCARV - newly verified batch handle
+- @VPAY_Global - newly verified batch handle
+- @itsgloria_ai - newly verified batch handle
+- @ethy_agent - newly verified batch handle
+- @Wach_AI - newly verified batch handle
+- @AInalyst_ - newly verified batch handle
+- @tipdotmd - newly verified batch handle
+- @Roba_Labs - newly verified batch handle
+- @openservai - newly verified batch handle
+- @bankrbot - newly verified batch handle
+- @maxbuidl - newly verified batch handle
+- @GigabrainGG - newly verified batch handle
+- @PayAINetwork - newly verified batch handle
+- @linuxfoundation - newly verified batch handle
+- @instaclaws - newly verified batch handle
+- @MineBotcoin - newly verified batch handle
+- @the_small_thing - newly verified batch handle
+- @SelfClaw - newly verified batch handle
+- @litcoin_AI - newly verified batch handle
+- @JunoAgent - newly verified batch handle
+- @openx402 - newly verified batch handle
+- @CodeNutPay - newly verified batch handle
+- @AurraCloud - newly verified batch handle
+- @x402rs - newly verified batch handle
+- @scattering_io - newly verified batch handle
+- @pingobserver - newly verified batch handle
+- @FluxA_Official - newly verified batch handle
+- @dapplooker - newly verified batch handle
+- @x402rorg - newly verified batch handle
 - @vercel - x402 for monetizing MCP tools and serverless functions
 - @nansen_ai - pay-per-query blockchain analytics via x402
 - @MessariCrypto - pay-per-use access to crypto intelligence and research APIs
@@ -23,8 +83,6 @@ April 2026 active x402 infrastructure projects.
 - @Nevermined_ai - payment validation, cost tracking, and multi-model settlement
 - @x402 - reference MCP server, wallet, and Node.js server implementations
 - @PRXVTai - privacy-preserving x402 payments via zero-knowledge proofs
-- @ampersend_ai - wallet and budget control for AI agents
-- @thirdweb - facilitator SDK supporting 170+ chains and 4000+ tokens
 - @kamiyoai - agent orchestration with x402 micropayments
 - @daydreamsagents - x402-enabled LLM inference router for agents
 - @x402scan - ecosystem explorer and analytics for x402
