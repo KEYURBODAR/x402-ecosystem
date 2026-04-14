@@ -1,7 +1,7 @@
 # x402 Infrastructure Projects
 
 April 2026 active x402 infrastructure projects.
-Total projects listed: 125
+Total projects listed: 132
 
 
 - @google - x402 foundation member and major entity
@@ -131,3 +131,11 @@ Total projects listed: 125
 - @agentcashdev - newly verified batch handle
 - @ekailabsxyz - newly verified batch handle
 - @SubnanoMe - newly verified batch handle
+
+- @CoinbaseDev - newly verified batch handle
+- @HeyElsaAI - newly verified batch handle
+- @relayaisolana - newly verified batch handle
+- @UltravioletaDAO - newly verified batch handle
+- @corbits_dev - newly verified batch handle
+- @dexteraisol - newly verified batch handle
+- @SolPayCash - newly verified batch handle
