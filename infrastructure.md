@@ -1,9 +1,10 @@
 # x402 Infrastructure Projects
 
 April 2026 active x402 infrastructure projects.
-Total projects listed: 107
+Total projects listed: 108
 
 
+- @BlockRunAI - newly verified batch handle
 - @google - x402 foundation member and major entity
 - @Visa - x402 foundation member and major entity
 - @circle - x402 foundation member and major entity
