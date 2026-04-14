@@ -1,6 +1,8 @@
 # x402 Infrastructure Projects
 
 April 2026 active x402 infrastructure projects.
+Total projects listed: 107
+
 
 - @google - x402 foundation member and major entity
 - @Visa - x402 foundation member and major entity
@@ -89,3 +91,24 @@ April 2026 active x402 infrastructure projects.
 - @1shotapi - monetize any n8n workflow via x402
 - @PayWithLocus - MCP wallet with auto-generated tools for every x402 endpoint
 - @mrdn_finance - multi-chain facilitator with developer-first features
+
+- @heyaura - newly verified batch handle
+- @AEON_Community - newly verified batch handle
+- @cybercentry - newly verified batch handle
+- @grovedotfinance - newly verified batch handle
+- @LasoFinance - newly verified batch handle
+- @Moltalyzer - newly verified batch handle
+- @proofivy_com - newly verified batch handle
+- @qshieldprotocol - newly verified batch handle
+- @snackmoneyapp - newly verified batch handle
+- @TrustaLabs - newly verified batch handle
+- @bitrefill - newly verified batch handle
+- @clawdvine - newly verified batch handle
+- @zytedata - newly verified batch handle
+- @useOttoAI - newly verified batch handle
+- @dtelecom - newly verified batch handle
+- @idapixl - newly verified batch handle
+- @Obol_Collective - newly verified batch handle
+- @cryptoslamio - newly verified batch handle
+- @AIsaOneHQ - newly verified batch handle
+- @clawdbotatg - newly verified batch handle
