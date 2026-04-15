@@ -5,14 +5,15 @@ Total projects listed: 133
 
 # 1. confirmed on both x402 and base
 - @virtuals_io
-- @ethereum
 - @aixbt_labs
+- @mcpaytech
 - @questflow
 - @firecrawl
 - @flock_io
 - @Hive_Intel
+- @luna_virtuals
+- @cashieCARV
 - @VPAY_Global
-- @awenetwork_ai
 - @ethy_agent
 - @Wach_AI
 - @AInalyst_
@@ -22,111 +23,130 @@ Total projects listed: 133
 - @PayAINetwork
 - @instaclaws
 - @SelfClaw
-- @vercel
+- @JunoAgent
+- @openx402
+- @CodeNutPay
 - @ExaAILabs
 - @nansen_ai
-- @QuickNode
 - @t54ai
-- @Alchemy
 - @Nevermined_ai
+- @x402
 - @daydreamsagents
 - @PayWithLocus
 - @mrdn_finance
 - @AEON_Community
 - @cybercentry
+- @proofivy_com
 - @snackmoneyapp
 - @useOttoAI
 - @clawdbotatg
 - @primer_systems
 - @agentcashdev
+- @ekailabsxyz
+- @SubnanoMe
+- @CoinbaseDev
 - @HeyElsaAI
+- @corbits_dev
 - @dexteraisol
-- @cashieCARV by @carv_official
+
+# 2. confirmed on x402
+- @carv_official
 - @pinatacloud
 - @itsgloria_ai
 - @bankrbot
-- @AurraCloud
+- @maxbuidl
+- @linuxfoundation
 - @x402rs
 - @pingobserver
 - @FluxA_Official
 - @x402rorg
 - @worldnetwork
-- @browserbase
-- @hyperbrowser
 - @PRXVTai
 - @kamiyoai
 - @x402scan
+- @zpaynow
 - @1shotapi
+- @TrustaLabs
+- @dtelecom
 - @AIsaOneHQ
 - @agentmail
+- @mogami_tech
+- @numbersprotocol
 - @zerion
-- @Executi0nMarket from @UltravioletaDAO
+- @relayaisolana
+- @UltravioletaDAO
+- @SolPayCash
+
+# 3. compute
 - @BlockRunAI
-- @scattering_io
-- @MessariCrypto
+- @AskVenice
 - @heurist_ai
+- @eigencloud
+- @QuickNode
+- @Alchemy
+- @AurraCloud
+- @browserbase
+- @hyperbrowser
+- @vercel
+- @awscloud
+- @Cloudflare
+- @fortytwonetwork x402Escrow
+
+# 4. confirmed on @base
+- @ethereum
+- @Roba_Labs
+- @MineBotcoin
+- @the_small_thing
+- @scattering_io
+- @dapplooker
+- @LasoFinance
+- @clawdvine
+- @zytedata
+- @Obol_Collective
+- @TheARCHAI_
+
+# 5. returned nothing
+- @litcoin_AI
+- @MessariCrypto
 - @freepik
 - @zauthinc
-- @karum_AI
-- @Treasure_DAO
-- @AskVenice
-- @alphakek
-- @fortytwonetwork
-- @CoinMarketCap
-- @coingecko
-- @crossmint
-- @zerufinance
-- @Uptopia_xyz
-- @cligrok
-- @antgroup
-- @checkrsocial
-- @0x4Mica
-- @gitlawb
-- @FloeLabs
-- @liminalcash
-- @CreatorBid
-- @Zyfai_
-- @xmtp_
-- @TownsProtocol
-- @neynarxyz
-- @AlliumLabs
-- @privy_io
-- @apify
-- @Thirdfy_
-- @eigencloud
-- @nookplot
-- @clashofcoins
-- @ArAIstotle
-- @perk_os
+- @framesag
+- @predict_agent
+- @heyaura
+- @grovedotfinance
+- @Moltalyzer
+- @qshieldprotocol
+- @bitrefill
+- @idapixl
+- @cryptoslamio
+- @Binotweets
+- @inference_net
+- @NeoGenBase
+- @Agnic_AI
+- @bloomfilterxyz
+- @CryptoRugMunch
+- @1paying
+- @kodo_ai
 
-
-
-# 2. standards
-
-- @OpenWallet OWS by @Moonpay
-- ERC-8183 by @virtuals_io
-- ERC-8004 by Ethereum's dAI team
-- ERC-7710 by @MetamaskDev
-
-# 5. x402 founding members
-- @linuxfoundation
+# 6. x402 founding members
 - @Adyen
-- @awscloud
 - @AmericanExpress
 - @ampersend_ai
 - @AntIntl
+- @base
 - @circle
-- @Cloudflare
-- @coinbase / @CoinbaseDev / @base
+- @coinbase
 - @Fiserv
 - @google
 - @kakaopay
 - @Mastercard
 - @meritsystems
 - @Microsoft
+- @0xPolygonLabs
 - @PPROGroup
 - @SierraAI
 - @Shopify
+- @SolanaFndn
 - @stripe
 - @thirdweb
 - @Visa
